@@ -1,4 +1,4 @@
-# Final assignment (selfassigned) - 
+# Final assignment (selfassigned) - Pokémon classifier
  
 Link to github of this assignment: https://github.com/sarah-hvid/Final_assignment
 
