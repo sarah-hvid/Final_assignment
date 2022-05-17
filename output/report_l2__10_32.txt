@@ -1,0 +1,22 @@
+              precision    recall  f1-score   support
+
+       gen 1       0.17      0.27      0.21        22
+       gen 2       0.18      0.12      0.15        24
+       gen 3       0.21      0.19      0.20        27
+       gen 4       0.35      0.39      0.37        23
+       gen 5       0.37      0.36      0.36        39
+       gen 6       0.17      0.09      0.12        11
+       gen 7       1.00      1.00      1.00        16
+
+    accuracy                           0.33       162
+   macro avg       0.35      0.35      0.34       162
+weighted avg       0.33      0.33      0.33       162
+
+       gen 1  gen 2  gen 3  gen 4  gen 5  gen 6  gen 7
+gen 1      6      3      7      1      5      0      0
+gen 2      8      3      4      2      6      1      0
+gen 3      8      4      5      6      4      0      0
+gen 4      3      3      3      9      4      1      0
+gen 5      9      2      4      7     14      3      0
+gen 6      1      2      1      1      5      1      0
+gen 7      0      0      0      0      0      0     16
